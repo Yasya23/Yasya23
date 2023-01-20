@@ -1,4 +1,4 @@
-![](item.svg) 
+<div align="center"><img src="item.svg" /></div>
 
 <!--
 **Yasya23/Yasya23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
