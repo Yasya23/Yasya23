@@ -1,18 +1,8 @@
 <div align="center"><img src="item.svg" /></div>
 
-
-<div>
-<a href="http://www.github.com/Yasya23"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Yasya23&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Yasya23's GitHub stats" /></a>
-  
-<a  href="https://github.com/Yasya23"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasya23&layout=compact&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
-
-
 <div align="center"> 
-<br>
   
 ### Skills
-
   
 <p align="center">
   
@@ -25,9 +15,18 @@
  
 </div>
 
+
+<div align="center">
+<a href="http://www.github.com/Yasya23"><img src="https://github-readme-stats.vercel.app/api?username=Yasya23&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Yasya23's GitHub stats" /></a>
+  
+<a  href="https://github.com/Yasya23"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasya23&layout=compact&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
+
+
 <div align="center">
   
   ### Socials
   
 <p align="center"> <a href="https://discord.com/users/Yana#7442" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Yasya23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yana-zahoruiko-9645ab239" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+  
 </div>
