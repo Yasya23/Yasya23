@@ -1,5 +1,6 @@
 <svg
       fill="none"
+      viewBox="0 0 700px 250px"
       width="700px"
       height="250px"
       xmlns="http://www.w3.org/2000/svg">
@@ -65,7 +66,7 @@
           </style>
           <div class="container">
             <h1>Hello, I'm Yana</h1>
-            <p>Front-End Developer from Ukraine 🇺🇦</p>
+            <p>Front-End Developer</p>
           </div>
         </div>
       </foreignObject>
