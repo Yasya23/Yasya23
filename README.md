@@ -16,8 +16,7 @@
 </div>
 
 
-<div align="center">
-<a href="http://www.github.com/Yasya23"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yasya23&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Yasya23's GitHub stats" /></a>
+<a href="http://www.github.com/Yasya23"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yasya23&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Yasya23's GitHub stats" /></a>
   
 <a  href="https://github.com/Yasya23"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yasya23&layout=compact&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
