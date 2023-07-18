@@ -1,5 +1,3 @@
-<div align="center"><img src="item.svg" /></div>
-
 <div align="center"> 
   
 ### Skills
